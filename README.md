@@ -2,6 +2,13 @@
 
 Welcome to the LinkUp Frontend repository, the client application for El Proyecte Grande - LinkUp.
 
+# Development Team
+
+[Piotr Warowny](https://github.com/Zachiel)
+[Marta Monkiewicz](https://github.com/marcioszka)
+[Alexander Krysiuk](https://github.com/AlexanderKrysiuk)
+[Mateusz Piszczatowski](https://github.com/MateuszPiszczatowski)
+
 ## Installation
 
 To get started, clone the repository and install the required dependencies by running the following command from the main folder:
